@@ -1,0 +1,1 @@
+{"version":3,"file":"LoggingUrlScraperService.js","sourceRoot":"","sources":["../../../../src/ai/services/url_scraper/LoggingUrlScraperService.ts"],"names":[],"mappings":";;;AAAA,qEAAkE;AAElE,MAAa,wBAAyB,SAAQ,+CAAsB;IAChE,SAAS,CAAC,GAAW;QACjB,OAAO,CAAC,GAAG,CAAC,WAAW,GAAG,GAAG,CAAC,CAAC;QAC/B,OAAO,KAAK,CAAC,SAAS,CAAC,GAAG,CAAC,CAAC;IAChC,CAAC;CACJ;AALD,4DAKC"}
